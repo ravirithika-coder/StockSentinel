@@ -2,7 +2,6 @@ import { useState } from "react";
 
 import {
   AlertTriangle,
-  ArrowLeft,
   ArrowUpRight,
   Bell,
   CheckCircle2,
